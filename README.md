@@ -6,3 +6,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
+# Projects
+
+
+- 🎶 **[porchsongs](https://github.com/njbrake/porchsongs)** - AI Song Editor & Catalogue
+- 👑 **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** - AI Coding agent manager
+- 🚀 **[any-llm](https://github.com/njbrake/any-llm)** - Talk to any llm or provider with a simple interface
+- 🤖 **[any-agent](https://github.com/njbrake/any-agent)** - One interface for a bunch of different agent frameworks
