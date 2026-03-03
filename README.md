@@ -10,7 +10,7 @@
 
 # Projects
 
-
+- 🦞 **[clawbolt](https://github.com/mozilla-ai/any-llm)** - An AI assistant that actually does something for people in the trades
 - 🎶 **[porchsongs](https://github.com/njbrake/porchsongs)** - AI Song Editor & Catalogue
 - 👑 **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** - AI Coding agent manager
 - 🚀 **[any-llm](https://github.com/mozilla-ai/any-llm)** - Talk to any llm or provider with a simple interface
