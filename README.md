@@ -10,6 +10,7 @@
 
 # Projects
 
+- 🎲 **[settl](https://github.com/mozilla-ai/settl)** - Your favorite Hex Settling and Strategy game, in a terminal user interface (TUI)
 - 🦞 **[clawbolt](https://github.com/mozilla-ai/clawbolt)** - An AI assistant that actually does something for people in the trades
 - 🎶 **[porchsongs](https://github.com/njbrake/porchsongs)** - AI Song Editor & Catalogue
 - 👑 **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** - AI Coding agent manager
