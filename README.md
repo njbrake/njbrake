@@ -1,6 +1,8 @@
 # Hi there, I'm Nathan -  👋 
 ---
 
+I'm most active on X: [@natebrake](https://twitter.com/natebrake)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/njbrake">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
